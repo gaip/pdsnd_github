@@ -6,6 +6,7 @@ In this project, I make use of Python to explore data related to bikeshare syste
 
 ### Files used
 Bikeshare.py
+./data/*
 ./data/chicago.csv
 ./data/new_york_city.csv
 ./data/washington.csv
@@ -13,3 +14,8 @@ Bikeshare.py
 
 ### Credits
 https://github.com/udacity/pdsnd_github
+
+### References
+capitalbikeshare.com
+divvybikes.com
+citibikenyc.com
