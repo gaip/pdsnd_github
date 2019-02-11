@@ -35,3 +35,7 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+# Data files
+data/new_york_city.csv
+data/chicago.csv
+data/washington.csv
