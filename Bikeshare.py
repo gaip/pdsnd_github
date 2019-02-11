@@ -169,6 +169,7 @@ def user_stats(df):
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
+
     print('-'*40)
 
 
@@ -183,13 +184,14 @@ def main():
             #try:
             user_stats(df)
             #except Exception:
-            #    print('\nThere are no user stats in this file')
+            print('\nThere are no user stats in this file')
         else:
             print('\nThere are no data for this period, try another month/day')
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
+#some comments added
 
 
 if __name__ == "__main__":
