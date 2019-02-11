@@ -1,15 +1,15 @@
-### Date created
-Include the date you created this project and README file.
+### DaExplore_US_Bikeshare
+2018 US Bike Share Activity Analysis
 
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
+Overview
+In this project, I make use of Python to explore data related to bikeshare systems for three major bikeshare systems in the United States. I performed data wrangling to unify the format of data from the three systems and write code to compute descriptive statistics.
 
 ### Files used
-Include the files used
+Bikeshare.py
+./data/chicago.csv
+./data/new_york_city.csv
+./data/washington.csv
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/udacity/pdsnd_github
