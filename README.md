@@ -1,4 +1,4 @@
-### DaExplore_US_Bikeshare
+### Explore_US_Bikeshare
 2018 US Bike Share Activity Analysis
 
 Overview
