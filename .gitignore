@@ -6,7 +6,6 @@
 *.exe
 *.o
 *.so
-*.csv
 
 # Packages #
 ############
@@ -37,6 +36,7 @@
 ehthumbs.db
 Thumbs.db
 # Data files
+*.csv
 data/new_york_city.csv
 data/chicago.csv
 data/washington.csv
